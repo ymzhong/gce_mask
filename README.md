@@ -26,10 +26,10 @@ The following masks are included:
 - `mask_4FGL-DR3_S3_14_Ebin_20x20window_normal.npy`: Standard 4FGLDR3 + Wavelet S3 mask
 - `mask_4FGL-DR3_S4_14_Ebin_20x20window_normal.npy`: Standard 4FGLDR3 + Wavelet S4 mask
 
-All masks cover the region of interest (ROI) defined as l: [+20, -20] deg and b: [-20, +20] deg with Cartesian pixels of size 0.1 deg x 0.1 deg. Each mask contains 14 energy bins as defined in Table 1 of [Zhong & Cholis (2024)](https://arxiv.org/abs/2401.xxxxx).
+All masks cover the region of interest (ROI) defined as l: [+20, -20] deg and b: [-20, +20] deg with Cartesian pixels of size 0.1 deg x 0.1 deg. Each mask is defined in 14 energy bins as listed in Table 1 of [Zhong & Cholis (2024)](https://arxiv.org/abs/2401.xxxxx). Therefore, their dimensions are (14, 400, 400).
 
 ## Usage
 
 Please acknowledge [Zhong & Cholis (2024)](https://arxiv.org/abs/2401.xxxxx) if you used the repository masks.
 
-For questions or issues, please contact Ilias Cholis(cholis@oakland.edu) or Yiming Zhong (yimzhong@cityu.edu.hk).
+For questions or issues, please contact Ilias Cholis (cholis@oakland.edu) or Yiming Zhong (yimzhong@cityu.edu.hk).
