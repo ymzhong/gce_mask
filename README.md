@@ -32,4 +32,4 @@ All masks cover the region of interest (ROI) defined as l: [+20, -20] deg and b:
 
 Please acknowledge [Zhong & Cholis (2024)](https://arxiv.org/abs/2401.02481) if you used the repository masks.
 
-For questions or issues, please contact Ilias Cholis (cholis@oakland.edu) or Yiming Zhong (yimzhong@cityu.edu.hk).
+For questions or issues, please contact Ilias Cholis (cholis@oakland.edu) or Yiming Zhong (yiming.zhong@cityu.edu.hk).
